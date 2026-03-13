@@ -40,7 +40,7 @@ This project focuses on **clean architecture and modular system design**.
 • Organized Python modules
 • Easy to extend and modify
 
-### Schreenshots :- 
+# Schreenshots :- 
 ![Dashboard](image.png)
 ![voice](image-1.png)
 ![chat](image-2.png)
