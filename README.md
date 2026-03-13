@@ -41,9 +41,13 @@ This project focuses on **clean architecture and modular system design**.
 • Easy to extend and modify
 
 # Schreenshots :- 
+### Dashboard
 ![Dashboard](image.png)
+### Voice Interface
 ![voice](image-1.png)
+### Chat Panel
 ![chat](image-2.png)
+### Settings Interface
 ![settings](image-3.png)
 ---
 
