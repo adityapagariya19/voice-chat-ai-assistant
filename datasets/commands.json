@@ -1,0 +1,20 @@
+{
+ "open_youtube": [
+  "open youtube",
+  "launch youtube",
+  "start youtube"
+ ],
+ "open_google": [
+  "open google",
+  "search google"
+ ],
+ "play_music": [
+  "play music",
+  "start music"
+ ],
+ "system_status": [
+  "show system status",
+  "system usage",
+  "cpu usage"
+ ]
+}

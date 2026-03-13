@@ -1,0 +1,12 @@
+{
+ "greetings": [
+  "hello",
+  "hi",
+  "hey jarvis"
+ ],
+ "responses": [
+  "Hello, how can I assist you?",
+  "System ready.",
+  "Awaiting your command."
+ ]
+}

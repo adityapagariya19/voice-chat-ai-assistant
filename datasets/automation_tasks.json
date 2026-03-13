@@ -1,0 +1,11 @@
+{
+ "morning_routine": [
+  "open weather",
+  "read news",
+  "show calendar"
+ ],
+ "work_mode": [
+  "open chrome",
+  "open vscode"
+ ]
+}
